@@ -1,0 +1,89 @@
+[
+    {
+        "patientId": "patient1",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT001",
+                "trialName": "Trial for Diabetes and Hypertension",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient2",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT002",
+                "trialName": "Diabetes Treatment Study for Elderly Patients",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient3",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT001",
+                "trialName": "Trial for Diabetes and Hypertension",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            },
+            {
+                "trialId": "NCT002",
+                "trialName": "Diabetes Treatment Study for Elderly Patients",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient4",
+        "eligibleTrials": []
+    },
+    {
+        "patientId": "patient5",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT004",
+                "trialName": "Cancer Immunotherapy Study",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient6",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT006",
+                "trialName": "COVID-19 Vaccine Trial for Adults",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient7",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT007",
+                "trialName": "Asthma Study for Children",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient8",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT008",
+                "trialName": "Mental Health Study for Adolescents",
+                "eligibilityCriteriaMet": "Matched inclusion and exclusion criteria"
+            }
+        ]
+    },
+    {
+        "patientId": "patient9",
+        "eligibleTrials": []
+    },
+    {
+        "patientId": "patient10",
+        "eligibleTrials": []
+    }
+]
